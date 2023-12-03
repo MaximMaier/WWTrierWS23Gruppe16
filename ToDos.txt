@@ -6,8 +6,11 @@ Aufgabe 1:
 
 Aufgabe 3:
 
-- 
+- mögliche Änderungen am Footer aus Aufgabe 1 übernehmen
+- Lücke zwischen Buttons einfügen
+- Button "Erstellen" über Tabelle einfügen
+- möglicherweise komplette Tabelle nochmal umranden lassen
 
 Aufgabe 4:
 
--
+- mögliche Änderungen am Footer aus Aufgabe 1 übernehmen

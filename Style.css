@@ -1,8 +1,19 @@
-.custom-card {
-    background-color: midnightblue;
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+footer.container {
+    display: flex;
+    justify-content: flex-end;
 }
 
-.custom-btn {
-        background-color: midnightblue;
-        color: white;
-    }
+footer p {
+    text-align: right;
+    margin-left: 10px;
+    color: white;
+}
+
+footer q {
+    color: white;
+}

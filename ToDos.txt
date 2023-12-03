@@ -1,0 +1,13 @@
+Aufgabe 1:
+
+- Footer anpassen
+	-  "©Web-Entwicklung Team 2023" nach unten bewegen und Anführungszeichen los werden
+	- Impressum, Datenschutz und Kontakt nebeneinander aufreihen
+
+Aufgabe 3:
+
+- 
+
+Aufgabe 4:
+
+-
